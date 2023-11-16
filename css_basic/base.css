@@ -50,6 +50,7 @@ q:before, q:after {
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+
 }
 
 
@@ -197,4 +198,8 @@ h6 {
   header .right {
   	float: none;
   }
+}
+article img{
+	width: 100px;
+	height: 70px;
 }
