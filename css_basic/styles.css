@@ -8,21 +8,29 @@ main{
     flex: auto;
 }
 header{
+    display: flex;
+    flex-direction: row-reverse;
 background-color: aqua;
 padding: 20px;
+justify-content:flex-end;
 }
 article{
     flex: 2;
    overflow-y: auto;
    background-color: rgb(125, 135, 154);
+   flex-wrap: wrap;
 }
 aside{
 flex: 1;
 overflow-y: auto;
 background-color: rgb(25, 31, 41);
 }
+article.table1{
+    flex-grow: 1;
+}
 footer{
 display: flex;
 background-position: inherit;
 background-color: rgb(94, 74, 77);
+justify-content: center;
 }
