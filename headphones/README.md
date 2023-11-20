@@ -18,10 +18,10 @@ Connect your device to the earphones via Bluetooth.
 Play your favorite music or audio content and enjoy!
 
 Troubleshooting
-If you encounter any issues, check the troubleshooting section in the user manual. For additional assistance, feel free to contact our customer support at support@example.com.
+If you encounter any issues, check the troubleshooting section in the user manual. For additional assistance, feel free to contact our customer support at spmutugi@gmail.com
 
 Contributing
 
-If you would like to contribute to the development of our earphones or report issues, please visit our GitHub repository: https://github.com/example/earphones
+If you would like to contribute to the development of our earphones or report issues, please visit our GitHub repository: https://github.com/Pmutugi
 
 We appreciate your feedback and support!
