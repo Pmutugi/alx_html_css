@@ -278,7 +278,7 @@
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
   }*/
-.header .header-container {
+.container .header-container {
 display: flex;
 justify-content: space-between;
   }
