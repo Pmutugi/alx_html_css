@@ -278,9 +278,9 @@
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
   }*/
-.container .header-container {
+.header .container .header-container {
 display: flex;
-justify-content: space-between;
+justify-content:space-between;
   }
   
   /* Footer
