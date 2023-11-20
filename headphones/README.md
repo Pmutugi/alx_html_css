@@ -1,4 +1,5 @@
-HEADPHONES
+                                         HEADPHONES   
+
 Welcome to the documentation for our amazing earphones! Whether you're a music enthusiast, a fitness buff, or just looking for a great audio experience, our earphones have you covered.
 
 Features
