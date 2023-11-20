@@ -260,7 +260,10 @@
   */
   /* Header
       ============================= */
-  
+ .header .header-container {
+        display: flex;
+        justify-content:space-between;
+          }
   .header {
     padding: var(--header-padding);
          position: relative;
@@ -278,10 +281,7 @@
     top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
   }*/
-.header .container .header-container {
-display: flex;
-justify-content:space-between;
-  }
+
   
   /* Footer
       ============================= */
