@@ -38,6 +38,7 @@ body main{
     align-items: center;
 }
 .legacy-banner {
+    color: whitesmoke;
     background-image: url(images/Object.png);
 }
 .profiles{
